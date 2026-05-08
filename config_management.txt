@@ -1,0 +1,1 @@
+Configuration management is crucial in software development because it helps maintain the integrity of software products by tracking and controlling changes systematically
